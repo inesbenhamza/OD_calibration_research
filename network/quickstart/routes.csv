@@ -1,0 +1,5 @@
+,fromTaz,toTaz,route_edges,id,start_edge,last_edge
+0,taz91,taz94,D2 L2 L12 L10 L7 D7,0,D2,D7
+1,taz91,taz93,D2 L2 L12 L15 L18 L5 D5,1,D2,D5
+2,taz92,taz93,D4 L4 L14 L18 L5 D5,2,D4,D5
+3,taz92,taz94,D4 L4 L14 L16 L10 L7 D7,3,D4,D7
