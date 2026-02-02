@@ -21,6 +21,9 @@ venv/
 # Outputs / generated (recreate on Colab)
 output/
 
+# BO4Mob (not needed for this repo)
+BO4Mob-main/
+
 # IDE / OS
 .idea/
 .vscode/
